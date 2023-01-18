@@ -1,0 +1,6 @@
+A=  matrix(c(1,2,3,4,5,6), nrow = 2, ncol = 3, byrow = FALSE)
+print(A)
+print(A^3)
+print(mean(1:30))
+x=c(10,20,30,78,38)
+print(mode(x))
