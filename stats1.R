@@ -4,3 +4,12 @@ print(A^3)
 print(mean(1:30))
 x=c(10,20,30,78,38)
 print(mode(x))
+ 
+# list
+name = c("Mary","Maria","Angel")
+ids =c(123,345,2213)
+login =c(TRUE,FALSE,TRUE)
+detail= list(name,ids,login)
+print(detail)
+print(detail[2])
+print (detail[c(1,3)])
