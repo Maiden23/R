@@ -23,8 +23,8 @@ print( matrix_2)
 print(paste("mode of matrix by row ", mode(matrix_1)))
 print(paste("mode of matrix by col ", mode(matrix_2)))
 
-print(paste("lenght of matrix by row ",length(matrix_1)))
-print(paste("lenght of matrix by col ",length(matrix_2)))
+print(paste("length of matrix by row ",length(matrix_1)))
+print(paste("length of matrix by col ",length(matrix_2)))
 
 print (t(matrix_1))
 print(t(matrix_2) )
