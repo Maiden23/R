@@ -28,3 +28,4 @@ print(paste("length of matrix by col ",length(matrix_2)))
 
 print (t(matrix_1))
 print(t(matrix_2) )
+
